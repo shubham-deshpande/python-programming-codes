@@ -1,3 +1,8 @@
+#PROGRAM : ARMSTRONG NUMBER
+#NAME : SHUBHAM DESHPANDE
+#ROLL.NO. : 57
+#GR.NO. : 11810105
+#DIVISION : 11810105
 def armstrong(n):
     sum=0
     t=n
