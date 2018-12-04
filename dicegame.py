@@ -1,3 +1,8 @@
+#PROGRAM : DICEGAME
+#NAME : SHUBHAM DESHPANDE
+#ROLL.NO. : 57
+#GR.NO. : 11810105
+#DIVISION : M
 import random
 from random import randint as rt
 def game(dice,faces):
